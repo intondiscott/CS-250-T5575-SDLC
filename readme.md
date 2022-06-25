@@ -1,25 +1,5 @@
-<style>
-    h1{
-      color: green;
-      text-align: center;  
-      border-bottom: 5px dotted;
-    }
-
-    body{
-       background:black;
-    }
-
-    ol{
-        color:red;
-    }
-
-    p{
-        color:yellow;
-    }
-
-</style>
-<body>
-    <h1>Sprint Review and Retrospective</h1>
+<body >
+    <h1 align="center">📖Sprint Review and Retrospective📖</h1>
     <ol>
         <li>How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
         <p><br>This is done by the product Owner talking to the stackholders/client. Asking what the users needs are and what they expect to happen in the program will give the team ideas of what needs to be done in the program, and the process of this is called, "user stories".</p></li>
